@@ -1,1 +1,1 @@
-It print the core operating system name
+It prints all the system information in the following order: Kernel name, network node hostname, kernel release date, kernel version, machine hardware name, hardware platform, operating system.
